@@ -11,6 +11,6 @@ En el diseño de esta página se utilizó un template de w3schools.
 
 ##### 2021-12
 - Se descarga la hoja de estilo w3.css completa en assets/css
-- Se agregan las etiquetas arial-label en iconos sociales para adecuar accesibilidad
+- Se realiza adecuación de accesibilidad según 'wave.webaim.org'
 
 ![Avatar de Héctor](https://en.gravatar.com/userimage/146115819/41a333edd75fea5257a0a684c76cf977.png)
