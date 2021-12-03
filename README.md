@@ -1,7 +1,8 @@
 # personal-page-01
 ###### Actualizada
-## Página simple realizada en 2016 y actualizada
-##### Se utilizó HTML5, CSS3 y Bootstrap
+## Página simple realizada en 2017 y actualizada
+##### 2017
+Se utilizó HTML5, CSS3 y Bootstrap
 En el diseño de esta página se utilizó un template de w3schools.
 - Se importan hojas de estilo de w3schools.
 - Se utilizan fuentes de Google descargadas e instaldas en asset.
